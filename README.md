@@ -22,7 +22,7 @@ eventhub/
 Installation and running:
 --
 ```
-git clone <repo-url>
+git clone "https://github.com/Preyah0709/EventHub"
 cd eventhub
 pip install -r requirements.txt
 python manage.py makemigrations
